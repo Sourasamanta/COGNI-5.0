@@ -1,0 +1,4 @@
+2026-07-12 21:48:57 DEBUG org.example.AppenderExample - This is a DEBUG message.
+2026-07-12 21:48:57 INFO  org.example.AppenderExample - Application started successfully.
+2026-07-12 21:48:57 WARN  org.example.AppenderExample - This is a WARNING message.
+2026-07-12 21:48:57 ERROR org.example.AppenderExample - This is an ERROR message.
